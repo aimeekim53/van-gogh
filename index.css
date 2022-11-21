@@ -39,7 +39,6 @@ header {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding: 5px 0px;
     align-items: center;
 }
 
@@ -48,7 +47,6 @@ header {
     display: block;
     color: white;
     text-align: left;
-    padding: 10px 0px;
     text-decoration: none;
     font-size: 15px;
     font-weight: 900;
