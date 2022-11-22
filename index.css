@@ -280,9 +280,9 @@ p {
 }
 
 .gallery-letter {
-    padding: 30px;
+    padding: 30px 30px 15px 30px;
     font-family: "Times New Roman", Times, serif;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .gallery-image-container {
