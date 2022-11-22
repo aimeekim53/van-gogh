@@ -225,6 +225,7 @@ input[type=submit]:hover {
     border-radius: 5px;
     padding: 10px;
     background-color: hsl(41deg 44% 48%);
+    font: black;
 }
 
 /* IMAGE + SOCIAL MEDIA  STYLE */
@@ -249,10 +250,11 @@ input[type=submit]:hover {
 }
 
 /* COPYRIHT STYLE */
-p {
+.copyright-phrase {
     color: white;
     font-size: medium;
     text-align: center;
+    font-size: 15px;
 }
 
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
